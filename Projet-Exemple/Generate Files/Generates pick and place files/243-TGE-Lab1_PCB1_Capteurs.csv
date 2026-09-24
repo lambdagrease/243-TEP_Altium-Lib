@@ -5,15 +5,15 @@ C:\Users\2233646\Desktop\dev\243-TEP_Altium-Lib\Projet-Exemple\.\Generate Files\
 File Design Information:
 
 Date:       24-09-26
-Time:       10:33
-Revision:   205181a040ef2f0411d6469df29bed9149ca674f
+Time:       11:38
+Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
-"C3","CAP CER 100nF 50V 0402","TopLayer","C_1608[0603]","27.1000","45.7750","270","Capacitor type 1"
-"C2","CAP CER 100nF 50V 0402","TopLayer","C_1608[0603]","15.7463","46.8664","0","Capacitor type 1"
-"C1","CAP CER 100nF 50V 0402","TopLayer","C_1608[0603]","26.0000","32.5750","180","Capacitor type 1"
+"C3","CAP CER 100nF 50V 0603","TopLayer","C_1608[0603]","27.1000","45.8000","270","Capacitor type 1"
+"C2","CAP CER 100nF 50V 0603","TopLayer","C_1608[0603]","15.7000","46.7000","0","Capacitor type 1"
+"C1","CAP CER 100nF 50V 0603","TopLayer","C_1608[0603]","26.0000","32.5000","180","Capacitor type 1"
 "C4","CAP CER 2.2uF 10V X7R 0603","TopLayer","C_1608[0603]","28.7000","45.7750","270","Capacitor type 1"
 "MH4","DNP","TopLayer","MP_M-Hole_M2-NonPlated","2.5000","69.5000","90","Mounting Hole 2mm non plated"
 "MH3","DNP","TopLayer","MP_M-Hole_M2-NonPlated","37.5000","2.5000","90","Mounting Hole 2mm non plated"
@@ -52,11 +52,11 @@ Units used: mm
 "R11","Res 100R 1% 0603","TopLayer","R_1608[0603]","23.8000","53.7750","90","Resistor type 1"
 "R10","Res 100R 1% 0603","TopLayer","R_1608[0603]","25.3000","53.7750","90","Resistor type 1"
 "R9","Res 100R 1% 0603","TopLayer","R_1608[0603]","26.8000","53.7750","90","Resistor type 1"
-"R2","Res 10k 1% 0402","TopLayer","R_1608[0603]","15.3000","34.7750","180","Resistor type 1"
-"R1","Res 10k 1% 0402","TopLayer","R_1608[0603]","15.3000","33.1750","0","Resistor type 1"
 "R7","Res 10k 1% 0603","TopLayer","R_1608[0603]","30.8000","36.7750","90","Resistor type 1"
 "R6","Res 10k 1% 0603","TopLayer","R_1608[0603]","29.2000","36.7750","90","Resistor type 1"
-"R25","Res 1k 1% 0402","TopLayer","R_1608[0603]","15.3000","36.3750","0","Resistor type 1"
-"R4","Res 1k 1% 0402","TopLayer","R_1608[0603]","26.0000","29.2750","180","Resistor type 1"
-"R3","Res 1k 1% 0402","TopLayer","R_1608[0603]","26.0000","30.9750","180","Resistor type 1"
+"R2","Res 10k 1% 0603","TopLayer","R_1608[0603]","15.3000","34.7750","0","Resistor type 1"
+"R1","Res 10k 1% 0603","TopLayer","R_1608[0603]","15.3000","33.1750","0","Resistor type 1"
+"R25","Res 1k 1% 0603","TopLayer","R_1608[0603]","15.3000","36.3750","0","Resistor type 1"
+"R4","Res 1k 1% 0603","TopLayer","R_1608[0603]","26.0000","29.2750","180","Resistor type 1"
+"R3","Res 1k 1% 0603","TopLayer","R_1608[0603]","26.0000","30.9750","180","Resistor type 1"
 "U1","TMUX1308PWR","TopLayer","U_TSSOP65P500X450-16","12.5000","43.0750","270","IC MUX 8:1 195OHM 16TSSOP"
